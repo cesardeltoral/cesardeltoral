@@ -18,7 +18,7 @@ I focus on creating seamless integrations between frontend, backend, and cloud i
 - ⚙️ Developing **full-stack web apps** using React, Next.js, and FastAPI  
 
 
-### 🛠️ Currently working on
+### 🧩 Currently working on
 
 **[🚗 FIU Parking Citation Tracker](https://github.com/cesardeltoral/citation-tracker)**  
 *Next.js, TypeScript, Supabase, Python*  
