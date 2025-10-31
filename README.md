@@ -11,8 +11,6 @@ I focus on creating seamless integrations between frontend, backend, and cloud i
 🎓 Education: B.S. in Computer Science @ Florida International University — Expected Dec 2026
 📍 Location: Miami, FL
 
-<div align="left"> <a href="https://cesardeltoral-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> <a href="https://www.linkedin.com/in/cesar-del-toral-629ab9235/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </div>
-
 ---
 
 ### 🚀 What I'm Up To
@@ -20,19 +18,11 @@ I focus on creating seamless integrations between frontend, backend, and cloud i
 - ⚙️ Developing **full-stack web apps** using React, Next.js, and FastAPI  
 
 
-### 🧩 Projects
+### 🧩 Currently working on
 
 **[🚗 FIU Parking Citation Tracker](https://github.com/cesardeltoral/citation-tracker)**  
 *Next.js, TypeScript, Supabase, Python*  
 Automated 1000+ weekly parking citations with real-time tracking and 100 ms API responses.
-
-**🛠 [Personal Task Manager](https://github.com/cesardeltoral/Personal-Task-Manager)**  
-*React, FastAPI, PostgreSQL*  
-Full-stack task app with JWT auth and async APIs, boosting performance by 35%.
-
-**🧾 Open Source Contributor — Baserow**  
-*Python, PostgreSQL*  
-Fixed backend timestamp issue and improved query performance for data consistency.
 
 ---
 
