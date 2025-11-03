@@ -20,7 +20,7 @@ I focus on creating seamless integrations between frontend, backend, and cloud i
 
 ### 🧩 Currently working on
 
-**[🚗 FIU Parking Citation Tracker](https://github.com/cesardeltoral/citation-tracker)**  
+**[🚗 FIU Parking Citation Tracker](https://citation-tracker.vercel.app)**  
 *Next.js, TypeScript, Supabase, Python*  
 Automated 1000+ weekly parking citations with real-time tracking and 100 ms API responses.
 
